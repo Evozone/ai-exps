@@ -124,3 +124,15 @@ int main() {
 
     return 0;
 }
+
+
+
+// 5
+// 0 1 1 0 0
+// 1 0 0 1 1
+// 1 0 0 0 0
+// 0 1 0 0 0
+// 0 1 0 0 0
+// A
+// C
+// The path from A to C is: A B D E C
