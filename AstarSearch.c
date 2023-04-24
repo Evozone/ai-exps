@@ -180,3 +180,16 @@ int main() {
 
     return 0;
 }
+
+
+// Enter the number of vertices: 5
+// Enter the adjacency matrix: 
+// 0 9 0 1 0
+// 9 0 6 1 12
+// 0 6 0 0 5
+// 1 1 0 0 0
+// 0 12 5 0 0
+// Enter the heuristic distances for each vertex (to the goal): 
+// 10 9 5 7 0
+// Enter the start and goal vertices:      D E
+// The path is:    D B C E  with cos
