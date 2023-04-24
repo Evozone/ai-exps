@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#define INT_MAX 0x7ffffff
 
 // Priority Queue Node
 typedef struct PQNode {
