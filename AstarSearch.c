@@ -193,4 +193,4 @@ int main() {
 // Enter the heuristic distances for each vertex (to the goal): 
 // 10 9 5 7 0
 // Enter the start and goal vertices:      D E
-// The path is:    D B C E  with cos
+// The path is:    D B C E  with cost 12
